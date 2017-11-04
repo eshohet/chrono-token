@@ -95,8 +95,6 @@ contract TestScheduler {
 
   function testFullRoundTransfer() {
     // Given
-    uint numberOfSlots = 300;
-    uint graceWindow = 30;
     uint slotToTransfer = 0;
 
     OwnerContract newOwner = new OwnerContract(address(this), slotToTransfer);
