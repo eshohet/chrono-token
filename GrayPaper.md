@@ -165,5 +165,4 @@ in several different ERC-20 tokens and, by use of a distributed exchange (there
   never return funds and be used to fill gaps in the market for the benefit of
   all, instead of the profit of a single individual or group.
 
-  Ultimately, the sky is the limit. A simple idea - reliably scheduling transactions
-  - opens up unlimited possibilities of novel applications and opportunities.
+  Ultimately, the sky is the limit. A simple idea - reliably scheduling transactions - opens up unlimited possibilities of novel applications and opportunities.
